@@ -52,8 +52,7 @@ public class Main {
 
 ## 반복문
 + for 반복문은 자바스크립트와 형태가 비슷하다.for 문을 사용한 예시는 아래의 코드가 있다.
-+ <pre><code>for( int i = 0 ; i < 100; i++){
-}</code></pre>   
++ <pre><code>for( int i = 0 ; i < 100; i++)</code></pre>   
 + for each 반복문은 python에서 주로 쓰이는 반복문의 형식이다.for each를 사용하는 예시는 아래의 코드가 있다.
 + <pre><code>public class Main {
     public static void main(String[] args) {
