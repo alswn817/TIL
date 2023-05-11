@@ -28,12 +28,12 @@
 + switch문을 사용할 때에는 소괄호에 파라미터를 넣어주며 각각의 케이스 별 기능을 구현할 수 있다.switch를 사용한 예시는 아래의 코드가 있다.
 <pre><code>   
 import java.util.Scanner;   
-public class Main {   
-    public static void main(String[] args) {   
+public class Main    
+    public static void main(String[] args)    
         Scanner sc = new Scanner(System.in);   
         String score = sc.next();   
    
-        switch(score){   
+        switch(score)   
             case "A":   
                 System.out.println("A등급입니다.");   
                 break;   
@@ -46,22 +46,21 @@ public class Main {
             default:   
                 System.out.println("D등급 이하 입니다.");   
                 break;   
-        }   
-    }   
-}   
+           
+          
 </code></pre>
 
 ## 반복문
 + for 반복문은 자바스크립트와 형태가 비슷하다.for 문을 사용한 예시는 아래의 코드가 있다.
 + <pre><code>for( int i = 0 ; i < 100; i++)</code></pre>   
 + for each 반복문은 python에서 주로 쓰이는 반복문의 형식이다.for each를 사용하는 예시는 아래의 코드가 있다.
-+ <pre><code>public class Main {
-    public static void main(String[] args) {
++ <pre><code>public class Main 
+    public static void main(String[] args) 
         // write your code here
         String[] days = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
 
-        for (String day : days){
+        for (String day : days)
             System.out.println(day);
-        }
-    }
-}</code><pre>
+        
+    
+</code><pre>
