@@ -66,3 +66,56 @@
 
 # bakery.remove("스콘") # 스콘을 제거
 # print(bakery)
+
+
+
+# 5월 17일
+# 리스트 연결
+# cafe.extend(bakery) # cafe와 bakery 메뉴 합치기
+# print(cafe)
+
+# cafe.sort() # 정렬 
+# print(cafe)
+
+# for i in range(10, 51, 10):
+#    print(i, end='')
+
+# coding = ["파이썬", "C", "C++", "c#", "JAVA"]
+# for i in coding:
+#     print(i, end = '')
+
+# student = int(input("학생 수 입력 : "))
+# score_list = []
+# for i in range(student):
+#     score = int(input(f"[i+1]번 점수 입력하세요 : "))
+#     score_list.append(score)
+# print()
+# print(f"{student}명의 점수 : ", score_list)
+# print(f"{student}명의 최대 점수 : ", max(score_list))
+# print(f"{student}명의 최소 점수 : ", min(score_list))
+# print(f"{student}명의 점수 합계 : ", sum(score_list))
+# print(f"{student}명의 평균 : {sum(score_list)/student : .2f}")
+
+# a = [10, 20, 30, 40, 50]
+# print(a)
+# print(min(a))
+# print(max(a))
+# rint(sum(a))
+# print(sum(a)/len(a))
+
+# a = input("학생 수 입력 : ")
+# student = [a]
+# b=1
+# for i in range:
+#     score=input(f"{b}번 점수 입력 : ")
+#     b+=1
+
+# from random import*
+# lotto=[]
+# while len(lotto)<6:
+#     x=randint(1, 45)
+#     # 로또번호가 리스트에 없을 경우에만 추가
+#     if x not in lotto:
+#         lotto.append(x)
+# lotto.sort()
+# print("컴퓨터 로또 입력 : ", lotto)
