@@ -7,7 +7,7 @@
 
 ### Library
 + 스트링 부트 라이브러리와 테스트 라이브러리
-##### 스프링 부트 라이브러리
++ ##### 스프링 부트 라이브러리
 + spring-boot-starter-tomcat : 웹서버
 + spring-webmvc : 스프링 웹 MVC(웹 계층에 서블릿(Servlet) API를 기반으로 클라이언트의 요청을 처리하는 모듈)
 + spring-boot-starter-thymeleaf : 타임리프 템플릿 엔진
@@ -17,7 +17,7 @@
 	+ spring-boot-starter-logging
 		+ logback,slf4j
 
-#### 테스트 라이브러리
++ ##### 테스트 라이브러리
 + spring-boot-starter-test
 	+ junit : 테스트 프레임워크 / junit 5을 많이 사용함
 	+ mockito : 목 라이브러리
