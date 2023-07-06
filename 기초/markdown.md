@@ -1,7 +1,6 @@
 # TIL   
-   
-markdown 언어 정리      
-# markdown기능은?   
+      
+# markdown기능   
 + markdown은 설치방법, 소스코드 설명, 이슈 등을 간단하게 기록하고 가독성을 높일 수 있다.   
    
 # markdown 헤더   
@@ -21,16 +20,24 @@ markdown 언어 정리
 + 깃헙에서는 코드블럭코드 방식을 사용하면 <pre><code>'''문법강조'''</code></pre>가 가능하다.   
    
 # 링크   
-+ 링크를 하는 세 가지 종류는 참조링크, 외부링크, 자동연결이 있다.   
++ 참조링크
++ 외부링크
++ 자동연결   
    
 # 이미지   
 + 이미지를 넣는 방법도 존재한다.![Alt text](/path/to/img.jpg) ![Alt text](/path/to/img.jpg "Optional title")를 사용하여 이미지 삽입이 가능하다.   
-+ 이미지 크기를 조정하기위해 <img width="" height=""></img> 을 이용 할 수 있다.   
++ 이미지 크기를 조정하기위해 ```
+<img width="" height=""></img>
+``` 을 이용 할 수 있다.   
    
 # markdown 사용기   
-+ 위지윅 에디터, 깃헙, 비트 버킷, 요비에서 사용이 가능하다.   
++ 위지윅 에디터 / (WYSIWYG Editor)
++ 깃헙 / (Github)
++ 비트 버킷 / (Bitbucket)
++ 요비 / (Yobi)   
    
 # markdown   
-결론: markdown은 다른 언어들에 비하여 기본 문법만 알고있다면 정말 배우기 쉽고 위의 내용 이외에도 강조, 수평선 기능을 이용할 수 있다.       
++ markdown은 다른 언어들에 비하여 배우기 쉽다.
++ 위의 내용 이외에도 강조, 수평선 기능을 이용할 수 있다.       
    
 [markdown 이용법과 문법 참고](https://gist.github.com/ihoneymon/652be052a0727ad59601)   
