@@ -1,5 +1,5 @@
 # **TIL (Git)**
-   ## <span style='background-color: #fff5b1'>**Repository**</span>
+   ## <span style="background-color:#fff5b1"> **Repository** </span>
        
 #### **로컬 저장소(local repository)**   
 + 내 PC에서 관리하는 git 저장소   
